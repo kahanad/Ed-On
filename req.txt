@@ -1,0 +1,4 @@
+apiai
+gtts
+playsound
+speech_recognition
